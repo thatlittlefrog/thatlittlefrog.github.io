@@ -26,3 +26,5 @@
  - 1x Flashforge Adventurer 3 
  - 1x CR-6 SE
  - Surface mount and through-hole soldering equipment
+
+![frog](/frog.png)
