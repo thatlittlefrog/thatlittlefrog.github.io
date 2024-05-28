@@ -1,4 +1,4 @@
-# thatlittlefrog ![frog](/frog.png width="200")
+# thatlittlefrog
 # product prototyping
 ### LA-based, international shipping available
 ---
@@ -27,4 +27,4 @@
  - 1x CR-6 SE
  - Surface mount and through-hole soldering equipment
 
-![froog](/frog.png)
+![froog](/frog2.png)
