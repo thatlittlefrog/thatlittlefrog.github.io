@@ -1,5 +1,4 @@
-# hardware prototyping
-### from design to product
+# product prototyping
 ### LA-based, international shipping available
 ---
 ###  - CAD (3D design)
