@@ -26,4 +26,4 @@
  - 1x CR-6 SE
  - Surface mount and through-hole soldering equipment
 
-![frog](/frog.png width="200")
+![froog](/frog.png width="200")
