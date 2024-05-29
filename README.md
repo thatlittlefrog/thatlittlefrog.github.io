@@ -2,7 +2,7 @@
 # product prototyping
 ### LA-based, international shipping available
 ---
-###  - CAD (3D design)
+### - CAD (3D design)
 ### - large scale and small batch 3D printing
 ### - design mockups
 ### - PCB design
