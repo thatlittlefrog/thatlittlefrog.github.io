@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #000000;
+}
+#header {
+  font-size: 30px;
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+#frog {
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  left: 270px; 
+  top: 2px; 
+}
+#title {
+}
+#subtitle {
+  color: grey;
+  font-size: 20px;
+}
+#capabilities {
+}
+.text {
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: white;
+  margin-left: 30px;
+}
+#tx {
+  position: absolute;
+  top: 16%;
+  left: 50%;
+  scale: 1.4;
+}
+#txdesc {
+  position: absolute;
+  left: 60%;
+  bottom: 10%;
+}
+#contact {
+  transition-duration: 0.4s;
+}
+#contact:hover {
+  letter-spacing: 1px;
+}
